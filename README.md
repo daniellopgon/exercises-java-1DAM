@@ -1,2 +1,5 @@
 # ejercicios-java-1DAM
-Este repositorio recopila ejercicios resueltos en lenguaje Java que abarcan los fundamentos de la programación orientada a objetos y estructuras de control, desarrollados como parte de la asignatura de Programación en 1º DAM.
+
+📘 Este repositorio contiene ejercicios de Java realizados durante el primer curso del ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Alonso Madrigal, Ávila, España.
+
+📘 This repository contains Java exercises developed during the first year of the Multiplatform Application Development vocational training program at IES Alonso Madrigal, Ávila, Spain.
