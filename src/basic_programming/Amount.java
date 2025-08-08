@@ -1,4 +1,4 @@
-package Basic_programming;
+package basic_programming;
 
 /*
 Make a program to calculate how many billets have been given to a client.

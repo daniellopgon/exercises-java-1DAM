@@ -1,4 +1,4 @@
-package estructuras_control;
+package control_structure;
 
 /*
 Programa un juego que genere un número aleatorio y te permita introducir

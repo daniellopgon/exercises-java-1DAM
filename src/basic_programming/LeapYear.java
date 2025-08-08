@@ -1,4 +1,4 @@
-package Basic_programming;
+package basic_programming;
 
 /*
 Make a program that finds out is a leap year.

@@ -1,4 +1,4 @@
-package estructuras_control;
+package control_structure;
 
 /*
 Realiza un programa que te indique si un número es capicúa o no,solo hasta 10.000.

@@ -1,4 +1,4 @@
-package Basic_programming;
+package basic_programming;
 
 /*
 Make a program that gives how many seconds span a concert, and calculate how many hours, minuts and seconds.

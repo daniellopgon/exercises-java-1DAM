@@ -1,4 +1,4 @@
-package estructuras_control;
+package control_structure;
 
 /*
 Haz un programa que indique cual es tu simbolo del zodiaco.

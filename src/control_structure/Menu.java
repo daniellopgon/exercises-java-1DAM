@@ -1,4 +1,4 @@
-package estructuras_control;
+package control_structure;
 
 /*
 Realiza un menú de una calculadora sencilla.
