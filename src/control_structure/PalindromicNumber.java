@@ -8,7 +8,7 @@ Use a 10,000 limit and nested if-else structures.
 
 import java.util.Scanner;
 
-public class Capicua {
+public class PalindromicNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

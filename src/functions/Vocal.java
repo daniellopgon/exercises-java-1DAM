@@ -1,4 +1,4 @@
-package funciones;
+package functions;
 
 /*
 Haz un método llamado esVocal(), al que se le pasa como parámetro un carácter

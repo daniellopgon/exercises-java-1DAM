@@ -1,4 +1,4 @@
-package funciones;
+package functions;
 
 /*
 Método factorial(), que calculará el factorial del número que se le pasa como parámetro.

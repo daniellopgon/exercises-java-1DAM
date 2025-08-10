@@ -27,5 +27,8 @@ public class Fibonacci {
             curr = next;
         }
         System.out.println();
+
+        sc.close();
     }
+
 }

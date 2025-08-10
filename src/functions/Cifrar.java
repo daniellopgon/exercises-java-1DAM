@@ -1,4 +1,4 @@
-package funciones;
+package functions;
 
 /*
 Haz dos métodos, una para cifrar() y otro para descifrar() una cadena de caracteres.

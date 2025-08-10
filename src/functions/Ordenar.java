@@ -1,4 +1,4 @@
-package funciones;
+package functions;
 
 /*
 Haz programa que ordene alfabéticamente las letras de una frase.

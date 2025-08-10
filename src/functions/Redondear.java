@@ -1,4 +1,4 @@
-package funciones;
+package functions;
 
 /*
 Realiza un método redondear() al que se le pasa como parámetro un numero
